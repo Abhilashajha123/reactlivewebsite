@@ -1,0 +1,74 @@
+*
+{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+.navbar{
+
+  background-color: #fff !important;
+
+}
+
+.navbar-light .navbar-brand {
+  color: blue;
+}
+
+.brand_name
+{
+  color: blue;
+}
+
+.menu-active
+{
+
+  font-weight: bold;
+  border-bottom: 1px solid blue;
+}
+
+btn-get-started {
+  background: blue;
+}
+
+#header
+{
+
+  width:100%;
+  height: 80vh;
+  margin-top: 70px;
+}
+
+#header h1{
+
+  margin:0 0 10px 0;
+  font-size: 48px;
+  font-weight: 700;
+  color: black;
+}
+
+.header-img
+{
+
+  text-align: right;
+}
+
+#header .btn-get-started:hover
+{
+
+  background-color: blue;
+  color: #fff;
+  text-decoration: none;
+  transition: 0.5s;
+}
+h2.my-3 {
+  font-size: 24px;
+}
+a.btn-get-started {
+  /* background: blue; */
+  padding: 10px;
+  border-radius: 18px;
+  color: black;
+  border: 1px solid blue;
+  /* margin-top: 8px; */
+}

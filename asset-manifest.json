@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/reactlivewebsite/static/css/main.a60faab7.chunk.css",
+    "main.js": "/reactlivewebsite/static/js/main.0283a915.chunk.js",
+    "main.js.map": "/reactlivewebsite/static/js/main.0283a915.chunk.js.map",
+    "runtime-main.js": "/reactlivewebsite/static/js/runtime-main.adbfa9dc.js",
+    "runtime-main.js.map": "/reactlivewebsite/static/js/runtime-main.adbfa9dc.js.map",
+    "static/js/2.4f9225ec.chunk.js": "/reactlivewebsite/static/js/2.4f9225ec.chunk.js",
+    "static/js/2.4f9225ec.chunk.js.map": "/reactlivewebsite/static/js/2.4f9225ec.chunk.js.map",
+    "index.html": "/reactlivewebsite/index.html",
+    "precache-manifest.005e96bdb7ef1544a49fd54023283974.js": "/reactlivewebsite/precache-manifest.005e96bdb7ef1544a49fd54023283974.js",
+    "service-worker.js": "/reactlivewebsite/service-worker.js",
+    "static/css/main.a60faab7.chunk.css.map": "/reactlivewebsite/static/css/main.a60faab7.chunk.css.map",
+    "static/js/2.4f9225ec.chunk.js.LICENSE.txt": "/reactlivewebsite/static/js/2.4f9225ec.chunk.js.LICENSE.txt",
+    "static/media/career1.gif": "/reactlivewebsite/static/media/career1.3f18fe53.gif",
+    "static/media/career2.gif": "/reactlivewebsite/static/media/career2.23356c5a.gif",
+    "static/media/content.jpg": "/reactlivewebsite/static/media/content.8a13ea01.jpg",
+    "static/media/digital.jpg": "/reactlivewebsite/static/media/digital.53b2b446.jpg",
+    "static/media/office.jpg": "/reactlivewebsite/static/media/office.622af1ce.jpg",
+    "static/media/software.png": "/reactlivewebsite/static/media/software.dd4e3614.png",
+    "static/media/web.jpg": "/reactlivewebsite/static/media/web.79159ed8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adbfa9dc.js",
+    "static/js/2.4f9225ec.chunk.js",
+    "static/css/main.a60faab7.chunk.css",
+    "static/js/main.0283a915.chunk.js"
+  ]
+}
